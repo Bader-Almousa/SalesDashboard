@@ -16,8 +16,8 @@ This project is a small dashboard tool built using Python to visualize sales and
    pip install -r requirements.txt
 
 2. Run the dashboard:
-```bash
-python src/dashboard.py
+   ```bash
+   python src/dashboard.py
 
 ## Features
 Sales Over Time: Line plot showing sales trends for different products over time.
